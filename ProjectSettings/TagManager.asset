@@ -1,0 +1,73 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Item2
+  - Item1
+  - Enemy
+  - pea
+  - corn
+  - Enemy2
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - ground
+  - player
+  - bullet
+  - enemy
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: BAckground
+    uniqueID: 4068251789
+    locked: 0
+  - name: Clouds
+    uniqueID: 3605606323
+    locked: 0
+  - name: MIdground
+    uniqueID: 3420033231
+    locked: 0
+  - name: Foreground
+    uniqueID: 1864409407
+    locked: 0
+  - name: shadow
+    uniqueID: 2096209593
+    locked: 0
+  - name: PlayerAndEnemies
+    uniqueID: 3483371769
+    locked: 0
+  - name: ForegroundFX
+    uniqueID: 326809471
+    locked: 0
+  - name: UI
+    uniqueID: 2491740175
+    locked: 0
